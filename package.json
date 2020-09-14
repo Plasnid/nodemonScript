@@ -1,0 +1,23 @@
+{
+  "name": "nodemonscript",
+  "version": "1.0.0",
+  "description": "hot updating node project, but just the javascript!",
+  "main": "index.js",
+  "scripts": {
+    "run_hot_js": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/nodemonScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/nodemonScript/issues"
+  },
+  "homepage": "https://github.com/Plasnid/nodemonScript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
